@@ -72,11 +72,11 @@ git config --global user.email "seu-email@example.com"</code></pre>
 <p>A fórmula para calcular a área de um triângulo a partir das medidas de seus lados a, b e c é a seguinte (fórmula de Heron):</p>
 
  <p align="center">
-  <img src="https://github.com/hildocosta/Curso-Nelio-Alves/blob/master/formula-de-heron.png">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/formula-de-heron.png">
 </p>
 
 <h3>Exemplo de Console:</h3>
 
 <p align="center">
-  <img src="https://github.com/hildocosta/Curso-Nelio-Alves/blob/master/desafio01.png">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio01.png">
 </p>
