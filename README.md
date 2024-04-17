@@ -65,7 +65,7 @@ git config --global user.email "seu-email@example.com"</code></pre>
 
 <h3>🧩 Lógica de Programação</h3>
 
-<h4>Exercício - 01</h4>
+<h2> Exercício - 01</h2>
 
 <p>💥 Desenvolva um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas válidas). Em seguida, mostre o valor das áreas dos dois triângulos e também informe qual dos dois triângulos possui a maior área.</p>
 
@@ -80,3 +80,58 @@ git config --global user.email "seu-email@example.com"</code></pre>
 <p align="center">
   <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio01.png">
 </p>
+
+<h2> Exercício - 02</h2>
+
+<p>💥 Fazer um programa para ler os dados de um produto em estoque (nome, preço e quantidade no estoque). Em seguida:
+
+- Mostrar os dados do produto (nome, preço, quantidade no estoque, valor total no estoque).
+- Realizar uma entrada no estoque e mostrar novamente os dados do produto.
+- Realizar uma saída no estoque e mostrar novamente os dados do produto.
+
+Para resolver este problema, você deve criar uma **classe** conforme projeto a seguir:
+</p>
+
+ <p align="center">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio02.png">
+</p>
+
+
+```
+Enter product data:
+Name: TV
+Price: 900.00
+Quantity in stock: 10
+
+Product data: TV, $ 900.00, 10 units, Total: $ 9000.00
+
+Enter the number of products to be added in stock: 5
+
+Updated data: TV, $ 900.00, 15 units, Total: $ 13500.00
+
+Enter the number of products to be removed from stock: 3
+
+Updated data: TV, $ 900.00, 12 units, Total: $ 10800.00
+```
+
+<h2> Exercício - 03</h2>
+
+
+<p>💥Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto abaixo.</p>
+
+
+ <p align="center">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio03.png">
+</p>
+
+<h3>Exemplo de Console:</h3>
+
+```
+Enter rectangle width and height:
+3.00
+4.00
+AREA = 12.00
+PERIMETER = 14.00
+DIAGONAL = 5.00
+```
+
