@@ -135,3 +135,22 @@ PERIMETER = 14.00
 DIAGONAL = 5.00
 ```
 
+
+<h2> Exercício - 04</h2>
+
+
+<p>💥 Faça um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostre os dados do funcionário (nome e salário líquido). Em seguida, aumente o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostre novamente os dados do funcionário. Use uma classe para representar o Funcionário.
+
+Usar uma classe como mostrado no projeto abaixo.</p>
+
+ <p align="center">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio4.1.png">
+</p>
+
+
+<h3>Exemplo de Console:</h3>
+
+ <p align="center">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio04.png">
+</p>
+
