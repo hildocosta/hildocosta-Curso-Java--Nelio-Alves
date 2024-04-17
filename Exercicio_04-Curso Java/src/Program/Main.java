@@ -38,6 +38,10 @@ public class Main {
         
         System.out.println();
         System.out.println(" Updated data: " + employee);
+        
+
+        // Fecha o scanner
+        sc.close();
 
 	}
 
