@@ -148,9 +148,18 @@ Usar uma classe como mostrado no projeto abaixo.</p>
 </p>
 
 
+
+<h2> Exercício - 05</h2>
+
+
+<p>💥Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano (primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está aprovado (PASS) ou não (FAILED) e, em caso negativo, quantos pontos faltam para o aluno obter o mínimo para ser aprovado (que é 60% da nota). 
+  
+Você deve criar uma classe Student para resolver este problema.</p>
+
+
 <h3>Exemplo de Console:</h3>
 
  <p align="center">
-  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio04.png">
+  <img src="https://github.com/hildocosta/hildocosta-Curso-Java--Nelio-Alves/blob/main/desafio05.png">
 </p>
 
